@@ -180,7 +180,7 @@ let firebase = require("firebase-admin"),
     crypto = require('crypto'),
     moment = require("moment");
 
-const bibleSearchBCV = require('@Adventech/bible-tools');
+const bibleSearchBCV = null;
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
 
